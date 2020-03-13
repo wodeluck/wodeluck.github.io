@@ -97,6 +97,6 @@ plugins: hexo-generate-feed
 # hexo-symbols-count-time 统计字数
 symbols_count_time:
   symbols: true
-  time: false
+  time: true
   total_symbols: true
   total_time: true
